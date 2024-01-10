@@ -102,7 +102,7 @@ const Tictaktoe = () => {
   };
   return (
     <div>
-      <h1>Tictaktoe </h1>
+      <h1>Monalisha Tic Tac Toe </h1>
       <Board
         strikeClass={strikeClass}
         playerTurn={playerTurn}

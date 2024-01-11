@@ -102,7 +102,7 @@ const Tictaktoe = () => {
   };
   return (
     <div>
-      <h1>MK Tic Tac Toe </h1>
+      <h1 style={{ textAlign: "center", color: "red",marginBottom:"80px" }}>MK Tic Tac Toe </h1>
       <Board
         strikeClass={strikeClass}
         playerTurn={playerTurn}

@@ -11,8 +11,8 @@ gameOverSound.volume = 0.1;
 const clickSound = new Audio(clickSoundAsset);
 clickSound.volume = 0.9;
 
-const PLAYER_X = "X";
-const PLAYER_O = "O";
+const PLAYER_X = "👌";
+const PLAYER_O = "🤞";
 
 const winningCombinations = [
   //Rows
